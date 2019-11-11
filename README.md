@@ -1,3 +1,5 @@
+The original source was created after watching coding project react tutorial 
+[Build a real time Currency Converter with React JS](https://www.youtube.com/watch?v=SWyGUvSnuNI&t=104s)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
